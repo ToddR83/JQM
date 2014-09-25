@@ -66,11 +66,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="index.html" />
-    <Content Include="Scripts\jquery.mobile.icons-1.4.4.css" />
+    <Content Include="Styles\jquery.mobile.icons-1.4.4.css" />
     <Content Include="Scripts\main.js" />
-    <Content Include="Scripts\normalize.css" />
-    <Content Include="Styles\jquery.min.js" />
-    <Content Include="Styles\jquery.mobile-1.4.4.min.js" />
+    <Content Include="Styles\normalize.css" />
+    <Content Include="Scripts\jquery.min.js" />
+    <Content Include="Scripts\jquery.mobile-1.4.4.min.js" />
     <Content Include="Styles\main.css" />
     <Content Include="Web.config" />
   </ItemGroup>
